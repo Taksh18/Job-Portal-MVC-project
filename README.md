@@ -35,21 +35,7 @@
 
 ---
 
-## 📸 Screenshots
 
-> _Add actual screenshots here in the `assets/` folder and update these paths._
-
-<p align="center">
-  <img src="C:\Users\User\OneDrive - Aotearoa New Zealand\Pictures\Screenshots\Screenshot 2025-04-01 095106.png" alt="Homepage" width="80%">
-  <br><em>Homepage of the portal</em>
-</p>
-
-<p align="center">
-  <img src="assets/job-listing.png" alt="Job Listings" width="80%">
-  <br><em>Explore job listings</em>
-</p>
-
----
 
 ## ⚙️ Installation Guide
 
